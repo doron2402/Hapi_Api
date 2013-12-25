@@ -1,0 +1,11 @@
+{
+  "name": "Hapi Api",
+  "version": "0.0.1",
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "jquery": "1.10.2",
+    "underscore": "~1.5.2"
+  }
+}

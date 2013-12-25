@@ -17,5 +17,9 @@
     "go"
   ],
   "author": "Doron Segal",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "hapi": "~1.20.0",
+    "bower": "~1.2.8"
+  }
 }
