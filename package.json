@@ -1,0 +1,21 @@
+{
+  "name": "Hapi_Api",
+  "version": "0.0.0",
+  "description": "hapi api, node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/doron2402/Hapi_Api.git"
+  },
+  "keywords": [
+    "node.js",
+    "hapi",
+    "javascript",
+    "go"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause"
+}
