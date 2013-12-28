@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "hapi api, node.js",
   "main": "index.js",
+  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
@@ -23,7 +24,10 @@
     "hapi": "~1.20.0",
     "bower": "~1.2.8",
     "nodemon": "~0.7.10",
-    "mongoose": "~3.8.3"
+    "mongoose": "~3.8.3",
+    "travelogue": "~0.4.3",
+    "yar": "~0.4.1",
+    "passport": "~0.1.17"
   },
   "devDependencies": {
     "bower": "~1.2.8",
