@@ -21,8 +21,8 @@
   "author": "Doron Segal",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "hapi": "~1.20.0",
-    "bower": "~1.2.8",
+    "hapi": "~17.0.0",
+    "bower": "~1.7.5",
     "nodemon": "~0.7.10",
     "mongoose": "~3.8.3",
     "travelogue": "~0.4.3",
