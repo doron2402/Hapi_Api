@@ -26,7 +26,7 @@
     "nodemon": "~0.7.10",
     "mongoose": "~3.8.3",
     "travelogue": "~0.4.3",
-    "yar": "~0.4.1",
+    "yar": "~9.1.0",
     "passport": "~0.1.17"
   },
   "devDependencies": {
